@@ -1,22 +1,4 @@
-<br clear="both">
-
-<div align="left">
-  <img height="150" src="https://avatars.githubusercontent.com/u/136226664?s=400&u=6ec5fbbe682c35e561934dc6320fba27b95c626c&v=4"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Pranit Adgokar   from INDIA<br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning Backend technologies <br>- ⚡TravelAddict , photophile</p>
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/136226664"  />
 
 ###
 
@@ -40,6 +22,20 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PranitAdgokar.PranitAdgokar&"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<br clear="both">
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Pranit Adgokar   from INDIA<br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning Backend technologies <br>- ⚡TravelAddict , photophile</p>
 
 ###
 
@@ -95,9 +91,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PranitAdgokar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=PranitAdgokar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/PranitAdgokar/PranitAdgokar/output/snake.svg" alt="Snake animation" />
 
 ###
