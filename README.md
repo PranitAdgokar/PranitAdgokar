@@ -18,13 +18,18 @@
 </div>
 
 ###
-<div align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PranitAdgokar.PranitAdgokar&"  />
-</div>
+</p>
 
 ###
-
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BF44F7&width=435&lines=Welcome+to+My+GitHub!;Frontend+%7C+Backend+%7C+Full+Stack+Developer;Passionate+about+Coding+%26+Learning)](https://git.io/typing-svg)
+</div>
 <h1 align="center">hey there 👋</h1>
+
+
 
 ###
 
@@ -34,7 +39,7 @@
 
 ###
 
-<p align="left">I'm Pranit Adgokar   from INDIA<br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning Backend technologies <br>- ⚡TravelAddict , photophile</p>
+<p align="left">I'm Pranit Adgokar<br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning Backend technologies <br>- ⚡TravelAddict , photophile</p>
 
 ###
 
